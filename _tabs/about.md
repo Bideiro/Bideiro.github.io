@@ -1,8 +1,15 @@
 ---
 # the default layout is 'page'
+title: Deighro De Ocampo
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+![Deighro De Ocampo](https://lh3.googleusercontent.com/a/ACg8ocLFEx-JZKGXQRPnOK-ESzh9U9j55Oxw4LjiCP8CkwdhHDbUkAds=s400-c)
+<!-- check photo -->
+## About Me 
+
+## Education
+
+## Achievements 
+
