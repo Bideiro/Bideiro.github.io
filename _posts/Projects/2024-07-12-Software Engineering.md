@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Product Management System: Ranil's Poulty Shop"
 categories: [Projects]
 tags: [Software Engineering, Python, MYSQL, PyQt-5]
