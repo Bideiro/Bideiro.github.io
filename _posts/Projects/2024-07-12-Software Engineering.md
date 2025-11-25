@@ -4,8 +4,6 @@ title: "Product Management System: Ranil's Poulty Shop"
 categories: [Projects]
 tags: [Software Engineering, Python, MYSQL, PyQt-5]
 ---
-
-## Product Management System for Ranil's Poultry Shop
 ## Quick Description
 This project involves the development of an automated product management system for Ranil’s Poultry Shop to modernize and streamline its daily operations. The system replaces manual processes with automated sales handling, real-time inventory tracking, and secure data management, ensuring faster transactions and reduced human error. Built using Python for the application logic and interface, and MySQL for data storage, it follows the Incremental Model to support gradual improvements and feature expansion. Evaluated by both IT and non-IT professionals, the system was rated highly for its security, functionality, user-friendliness, and overall reliability. This solution significantly enhances operational efficiency and provides a scalable foundation for future business growth.
 
@@ -14,32 +12,32 @@ This project involves the development of an automated product management system 
 <!-- <iframe src="https://drive.google.com/file/d/1QZuXHH1fNfd915L1-qDlK0lhcQBPpd9O/preview" width="640" height="480" allow="autoplay"></iframe> -->
 Shown below are some of the features of the created management system.
 
-Login Screen
-![Image 1](/assets/images/ranil/r-1.png)
+![Image 1](/assets/images/ranil/r-1.png){:.middle}
+_Login Screen_
 
-Home Screen
-![Image 2](/assets/images/ranil/r-2.png)
+![Image 2](/assets/images/ranil/r-2.png){:.middle}
+_Home Screen_
 
-User Selection/Information
-![Image 3](/assets/images/ranil/r-3.png)
+![Image 3](/assets/images/ranil/r-3.png){:.middle}
+_User Selection/Information_
 
-Categories of available products
-![Image 4](/assets/images/ranil/r-4.png)
+![Image 4](/assets/images/ranil/r-4.png){:.middle}
+_Categories of available products_
 
-Order Screen
-![Image 5](/assets/images/ranil/r-5.png)
+![Image 5](/assets/images/ranil/r-5.png){:.middle}
+_Order Screen_
 
-Confirmation of Order
-![Image 6](/assets/images/ranil/r-6.png)
+![Image 6](/assets/images/ranil/r-6.png){:.middle}
+_Confirmation of Order_
 
-Receipt
-![Image 7](/assets/images/ranil/r-7.png)
+![Image 7](/assets/images/ranil/r-7.png){:.middle}
+_Receipt_
 
-Stored Receipts/Records
-![Image 8](/assets/images/ranil/r-8.png)
+![Image 8](/assets/images/ranil/r-8.png){:.middle}
+_Stored Receipts/Records_
 
-Preview of Receipt
-![Image 9](/assets/images/ranil/r-9.png)
+![Image 9](/assets/images/ranil/r-9.png){:.middle}
+_Preview of Receipt_
 
 
 > In Depth View: The following parts will contain parts or summaries of what we wrote in the actual paper. For the actual paper click here
