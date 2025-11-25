@@ -16,7 +16,7 @@ timezone: Asia/Manila
 
 title: Deighro De Ocampo # the main title
 
-tagline: A static website portfolio # it will display as the subtitle
+tagline: A static website portfolio built using jekyll(chirpy). # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
