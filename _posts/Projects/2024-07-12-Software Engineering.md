@@ -5,11 +5,14 @@ categories: [Projects]
 tags: [Software Engineering, Python, MYSQL, PyQt-5]
 ---
 ## Quick Description
+
 This project was completed during my 3rd year in college, I led development of an automated product management system for Ranil’s Poultry Shop to modernize and streamline its daily operations. The system replaces manual processes with automated sales handling, real-time inventory tracking, and secure data management, ensuring faster transactions and reduced human error. Built using Python for the application logic and interface, and MySQL for data storage, it follows the Incremental Model to support gradual improvements and feature expansion. Evaluated by both IT and non-IT professionals, the system was rated highly for its security, functionality, user-friendliness, and overall reliability. This solution significantly enhances operational efficiency and provides a scalable foundation for future business growth.
+
+>If you want the Github Repository, [click here](https://github.com/Bideiro/Ranil_project_py);
+{: .prompt-info}
 
 ## Images & Videos
 
-<!-- <iframe src="https://drive.google.com/file/d/1QZuXHH1fNfd915L1-qDlK0lhcQBPpd9O/preview" width="640" height="480" allow="autoplay"></iframe> -->
 Shown below are some of the features of the created management system.
 
 ![Image 1](/assets/images/ranil/r-1.png){:.middle}
@@ -40,7 +43,7 @@ _Stored Receipts/Records_
 _Preview of Receipt_
 
 
-> In Depth View: The following parts will contain parts or summaries of what we wrote in the actual paper. For the actual paper click here
+> In Depth View: The following parts will contain parts or summaries of what we wrote in the actual paper. For the actual paper, [click here](/assets/Ranils-Poultry_Documentation.pdf).
 {: .prompt-info }
 
 ## Introduction 
