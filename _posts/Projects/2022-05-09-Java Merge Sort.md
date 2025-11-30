@@ -16,7 +16,7 @@ The java application is a simple visual application of merge sort, it uses Swing
 > No Github Repository was made for this project.
 {: .prompt-info}
 
-## Related Images & Videos
+## Images & Videos
 
 ![Input Window](/assets/images/merge_sort/Input Window.png){:.middle}
 _Input Window_
