@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Product Management System: Ranil's Poulty Shop"
+description: Using Python, PyQt-5 and Mysql to create a product management system.
+image:
+    path: /assets/images/ranil/r-1.png
 categories: [Projects]
 tags: [Software Engineering, Python, MYSQL, PyQt-5]
 ---

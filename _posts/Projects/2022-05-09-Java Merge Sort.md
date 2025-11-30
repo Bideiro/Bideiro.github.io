@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Java: Merge Sort Animation"
+description: A merge sort animation created using Java.
 categories: [Projects]
 tags: [Software Engineering, MVC Architecture, Java, Swing]
+
 ---
 
 ## Quick Description
