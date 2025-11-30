@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Civil Service Examination - Professional"
+description: "General rating: 87.66%"
 categories: [Certifications]
 tags: [Civil Service Examination]
 ---
