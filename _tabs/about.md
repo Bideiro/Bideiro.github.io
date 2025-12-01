@@ -46,22 +46,22 @@ Below are the comparable performance in each subject areas of the test.
 
 
 ### Academic Achievements
-![2021-2022 2nd sem VPAA Lister](/assets/images/certificates/2021-2022%202nd%20sem%20VPAA%20Lister.jpg){: width="450" .center}
+![2021-2022 2nd sem VPAA Lister](/assets/images/certificates/School Awards/2021-2022%202nd%20sem%20VPAA%20Lister.jpg){: width="450" .center}
 _2021-2022 2nd sem VPAA Lister_
 
-![2022-2023 1st sem VPAA Lister](/assets/images/certificates/2021-2022%202nd%20sem%20VPAA%20Lister.jpg){: width="450" .center}
+![2022-2023 1st sem VPAA Lister](/assets/images/certificates/School Awards/2021-2022%202nd%20sem%20VPAA%20Lister.jpg){: width="450" .center}
 _2022-2023 1st sem VPAA Lister_
 
-![2022-2023 2nd sem VPAA Lister](/assets/images/certificates/2021-2022%202nd%20sem%20VPAA%20Lister.jpg){: width="450" .center}
+![2022-2023 2nd sem VPAA Lister](/assets/images/certificates/School Awards/2021-2022%202nd%20sem%20VPAA%20Lister.jpg){: width="450" .center}
 _2022-2023 2nd sem VPAA Lister_
 
-![2023-2024 2nd sem Deans Lister](/assets/images/certificates/2021-2022%202nd%20sem%20VPAA%20Lister.jpg){: width="450" .center}
+![2023-2024 2nd sem Deans Lister](/assets/images/certificates/School Awards/2021-2022%202nd%20sem%20VPAA%20Lister.jpg){: width="450" .center}
 _2023-2024 2nd sem Deans Lister_
 
-![2023-2024 2nd sem VPAA Lister](/assets/images/certificates/2021-2022%202nd%20sem%20VPAA%20Lister.jpg){: width="450" .center}
+![2023-2024 2nd sem VPAA Lister](/assets/images/certificates/School Awards/2021-2022%202nd%20sem%20VPAA%20Lister.jpg){: width="450" .center}
 _2023-2024 2nd sem VPAA Lister_
 
-![2024-2025 1st sem  VPAA Lister](/assets/images/certificates/2021-2022%202nd%20sem%20VPAA%20Lister.jpg){: width="450" .center}
+![2024-2025 1st sem  VPAA Lister](/assets/images/certificates/School Awards/2021-2022%202nd%20sem%20VPAA%20Lister.jpg){: width="450" .center}
 _2024-2025 1st sem  VPAA Lister_
 
 
